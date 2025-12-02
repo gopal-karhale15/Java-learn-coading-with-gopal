@@ -7,7 +7,7 @@ public class OddEven {
         if(n%2==0){
             System.out.println("The number is even :");
         }
-        else if(n%2!=0){
+        else {
             System.out.println("The number is Odd :");
         }
     }
